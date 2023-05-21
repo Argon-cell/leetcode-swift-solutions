@@ -1,5 +1,10 @@
+import Cocoa
 import Foundation
 import XCTest
+
+
+
+
 class SolutionTests: XCTestCase {
     var solution: Solution!
     override func setUp() {
